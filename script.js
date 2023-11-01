@@ -5,7 +5,7 @@ name.addEventListener("input", e => {
     nickname.innerText = roll13(name.value)
 })
 
-// btw this is my nickname : _l3uq1x}
+// btw this is my nickname : _gu3_avpxa4z3}
 
 const roll13 = str => {
     const s1 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
